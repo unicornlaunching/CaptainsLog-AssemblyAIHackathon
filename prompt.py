@@ -1,5 +1,6 @@
 # Here's some code from the inner engine of Captain's Log
 # You'll notice the magic happening in prompt=
+# This prompt flow engine core alone is going to shake up the entire world
 
 captains_log_responses = []
 promptCount = 0
