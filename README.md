@@ -1,3 +1,7 @@
+# Captain's Log
+### Entry for AssemblyAI Hackathon
+[![Click to Watch Trailer for Captain's Log](https://img.youtube.com/vi/cPaiItBk0rE/0.jpg)](https://www.youtube.com/watch?v=cPaiItBk0rE)
+
 # CaptainsLog-AssemblyAIHackathon
 Code for Captain's Log which uses ChatGPT AssemblyAI and other libraries. Purpose of the app is to 10x the performance of life coaches starting with military coaches.
 
